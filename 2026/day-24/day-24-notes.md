@@ -2,18 +2,6 @@
 
 ---
 
-# 🧠 Core Mental Model
-
-- A branch is just a pointer to a commit.
-- A commit is a snapshot + reference to its parent.
-- Git history is a directed acyclic graph (DAG).
-- Conflicts are usually caused by:
-  - Line overlap
-  - Context mismatch
-  - Logical dependency
-
----
-
 # 1️⃣ Git Merge
 
 ## 🔹 Fast-Forward Merge
